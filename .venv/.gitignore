@@ -40,3 +40,12 @@ htmlcov/
 # Misc
 *.sqlite3
 
+# Authentication
+token.json
+credentials.json
+
+# Python caches
+**/__pycache__/
+
+# UV
+.python-version
