@@ -1,1 +1,1 @@
-max_requests = 1
+max_requests = 5
